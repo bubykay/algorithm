@@ -1,8 +1,10 @@
 function factorialize(num) {
-    for(var i=0; i<=num; i++){
-        return num += i;
-    }
-  }
+    for (var i=1; num>0; num--){
+            i *= num;
+        }
+        return i;
+      }
+    
   
-  console.log(factorialize(5));
+  console.log(factorialize(10));
   
