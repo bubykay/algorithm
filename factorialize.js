@@ -4,7 +4,7 @@ function factorialize(num) {
         }
         return i;
       }
-    
+
   
   console.log(factorialize(10));
   
