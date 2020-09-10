@@ -11,7 +11,7 @@ function compareTriblet(c,d) {
     }
     result.push(a);
     result.push(b);
-    return result.join('')
+    return result.join(' ')
     
 }
 
