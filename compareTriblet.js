@@ -15,4 +15,4 @@ function compareTriblet(c,d) {
     
 }
 
-compareTriblet([17,28,30],[99,16,8])
+console.log(compareTriblet([17,28,30],[99,16,8]))
